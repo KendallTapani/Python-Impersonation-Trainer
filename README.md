@@ -2,6 +2,8 @@
 
 A Python application that helps users practice voice impersonations by providing real-time audio analysis and visualization.
 
+I'm doing an actual react app, this was just to test stuff out.
+
 ## Features
 
 - Record and playback voice attempts
